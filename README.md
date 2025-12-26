@@ -31,3 +31,7 @@ To answer this question, I built a simplified computational model of the retina 
 - To study functional consequences of early visual compression
 
 - To understand how much structure can survive aggressive dimensionality reduction
+
+
+
+## Rabbithole #1
