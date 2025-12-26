@@ -16,7 +16,7 @@ This raised a fundamental question for me:
 To answer this question, I built a simplified computational model of the retina using convolutional neural networks (CNNs), focusing on how information is compressed and transformed prior to downstream processing.
 
 
-## Project Overview
+## Overall Idea
 
 ### This project implements:
 
@@ -32,6 +32,14 @@ To answer this question, I built a simplified computational model of the retina 
 
 - To understand how much structure can survive aggressive dimensionality reduction
 
+## Project Overview:
+
+1. RGV values to Wavelengths
+2. Compute the Brightness of each pixel
+3. Implement Rod cells
+4. Implement Cone cells
+5. Distributions of rod and cone cells in the retina
+6. Investigate different ways to calculate the informatioon of the Retina
 
 
-## Rabbithole #1
+## Rabbithole #1: What even are RGB values and why does the question of converting them to wavelength kind of not make any sense
