@@ -57,3 +57,6 @@ Where:
 | $(255, 255, 255)$   | White             |
 | $(0, 0, 0)$         | Black             |
 | $(128, 128, 128)$   | Gray              |
+
+
+Reading the wiki page on the history of [RGB color model](https://en.wikipedia.org/wiki/RGB_color_model#History_of_RGB_color_model_theory_and_usage) I realize that this model was made before they knew that there were only three types of cone cells in the eye. I thought this was interesting.
