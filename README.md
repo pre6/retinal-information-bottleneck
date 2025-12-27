@@ -69,3 +69,7 @@ So we need to convert them from one to the other. But we are unable to make a pe
 
 The idea of Metamerism is that two images with seemingly the same colour could have two different wavelengths. In the first column, we see that the wavelength from the yellow ball is only yellow, while the second ball is a mixed of three different wavelengths. This idicates that there could be a numerous amount of combinations that give rise to the same colour. For the purposes of this project this does not matter. But it is really interesting to think about how if we have a "yellow" wavelength, the wavelength hits the R,B,B cones in a specfic ratio, meaning if we have the same ratio of red green and blue we can artificially make yellow which is how the monitor you are reading this very project on works!! (Maybe this could be a way to test our retina or something tbd)
 
+So to find the given wavelength from a given RGB value, we can calculate the Hue, or what colour it is meant to show then we can convert that colour into a wavelength.
+
+
+
