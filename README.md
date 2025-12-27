@@ -7,7 +7,7 @@ Investigating the information loss in a rudimentary model of the retina
 ## Motivation
 
 In my first year of undergraduate neuroscience, I learned that the human retina is **not a one-to-one pixel level representation of the visual world.**
-In particular, retinal ganglion cells pool information from many photoreceptors, creating a significant information bottleneck before signals ever reach the brain. Also the retinal cone and rod cells fire at different absorbtion levels of a specific wavelength. From cell to cell, however, it might not be the same.
+In particular, retinal ganglion cells pool information from many photoreceptors, creating a significant information bottleneck before signals ever reach the brain. Also the retinal cone and rod cells fire at different absorbtion levels of a specific wavelength. From cell to cell, however, they might differ slightly which I thought was interesting. A seemingly rigid representation of the visual world being inherantly probabilistic in addtion to being compressed.
 
 This raised a fundamental question for me:
 
