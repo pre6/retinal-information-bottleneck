@@ -43,3 +43,17 @@ To answer this question, I built a simplified computational model of the retina 
 
 
 ## Rabbithole #1: What even are RGB values and why does the question of converting them to wavelength kind of not make any sense
+
+
+Images on a computer have pixel level representations in order to present them on a screen. Each pixel has three values associated with it. Red, Green Blue levels. $(R,G.B)$
+
+Where:
+
+| RGB Value         | Color Description |
+|-------------------|-------------------|
+| (255, 0, 0)       | Pure Red          |
+| (0, 255, 0)       | Pure Green        |
+| (0, 0, 255)       | Pure Blue         |
+| (255, 255, 255)   | White             |
+| (0, 0, 0)         | Black             |
+| (128, 128, 128)   | Gray              |
