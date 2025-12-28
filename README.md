@@ -42,7 +42,7 @@ To answer this question, I built a simplified computational model of the retina 
 6. Investigate different ways to calculate the informatioon of the Retina
 
 
-## Rabbithole #1: What even are RGB values and why does the question of converting them to wavelength kind of not make any sense
+## Rabbithole #1: How to convert RGB values to pixel level values
 
 
 Images on a computer have pixel level representations in order to present them on a screen. Each pixel has three values associated with it. Red, Green Blue levels. $(R,G,B)$
