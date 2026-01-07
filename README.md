@@ -51,5 +51,25 @@ It some ways the RGB values orginated from our retinal cells. Therefore, there i
 
 So to find the given wavelength from a given RGB value, we can calculate the Hue, or what colour it is meant to show then we can convert that colour into a wavelength.
 
+### CIE 1931 Color Space
+
+A color space is a system for consistantly recreating particular color sensations. We do this by understanding the construction of eye.
+
+Our eyes have 3 types of cone cells:
+
+1. Long Cone cells - responsed mostly to red light
+2. Medium Cone cells  - responsed mostly to red light
+3. Short Cone cells  - responsed mostly to red light
+
+These LMS activations were converted into a XYZ color space, to make it more absolute. The points are picked on the color space to represent RGB and subsequent colors are defined based on this. 
+
+So in order to extract the LMS activations (based on CIE 1931) I need to transfer the RGB values to the color space XYZ coordinates then transfrom them to the LMS values. 
+
+References:
+
+[Color Spaces: Explained from the Ground Up - Video Tech Explained](https://www.youtube.com/watch?v=99v96TL-tuY)
+[CIE Color Space](https://en.wikipedia.org/wiki/CIE_1931_color_space)
+[Colorimetry Fundamentals and Applications](https://www.academia.edu/34154313/Colorimetry_Fundamentals_and_Applications)
+
 
 
