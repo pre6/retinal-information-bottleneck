@@ -68,7 +68,9 @@ So in order to extract the LMS activations (based on CIE 1931) I need to transfe
 References:
 
 [Color Spaces: Explained from the Ground Up - Video Tech Explained](https://www.youtube.com/watch?v=99v96TL-tuY)
+
 [CIE Color Space](https://en.wikipedia.org/wiki/CIE_1931_color_space)
+
 [Colorimetry Fundamentals and Applications](https://www.academia.edu/34154313/Colorimetry_Fundamentals_and_Applications)
 
 
