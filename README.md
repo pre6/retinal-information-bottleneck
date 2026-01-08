@@ -65,6 +65,8 @@ These LMS activations were converted into a XYZ color space, to make it more abs
 
 So in order to extract the LMS activations (based on CIE 1931) I need to transfer the RGB values to the color space XYZ coordinates then transfrom them to the LMS values. 
 
+(My old version of this project had used a rudimentary conversion of Hue to wavelength, which I have now deemed as redundant : [Old project](https://github.com/pre6/Creating_Retina_Using_CNN)
+
 References:
 
 [Color Spaces: Explained from the Ground Up - Video Tech Explained](https://www.youtube.com/watch?v=99v96TL-tuY)
