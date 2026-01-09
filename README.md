@@ -76,4 +76,7 @@ References:
 [Colorimetry Fundamentals and Applications](https://www.academia.edu/34154313/Colorimetry_Fundamentals_and_Applications)
 
 
+[used this guys code](https://gist.github.com/jcupitt/1aecfab677abfac4bc64efd1b0bcb463)
+
+
 
