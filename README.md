@@ -74,7 +74,10 @@ References:
 [CIE Color Space](https://en.wikipedia.org/wiki/CIE_1931_color_space)
 
 [Colorimetry Fundamentals and Applications](https://www.academia.edu/34154313/Colorimetry_Fundamentals_and_Applications)
+
 [conversion from sRGB to XYZ](https://en.wikipedia.org/wiki/SRGB)
+
+[conversion of XYZ to LMS activations](https://en.wikipedia.org/wiki/LMS_color_space)
 
 
 [used this code](https://gist.github.com/jcupitt/1aecfab677abfac4bc64efd1b0bcb463)
