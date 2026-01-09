@@ -76,7 +76,9 @@ References:
 [Colorimetry Fundamentals and Applications](https://www.academia.edu/34154313/Colorimetry_Fundamentals_and_Applications)
 
 
-[used this guys code](https://gist.github.com/jcupitt/1aecfab677abfac4bc64efd1b0bcb463)
+[used this code](https://gist.github.com/jcupitt/1aecfab677abfac4bc64efd1b0bcb463)
+
+[also used this code](https://stackoverflow.com/questions/56200998/converting-a-rgb-image-to-lms-and-vice-versa-using-opencv)
 
 
 
